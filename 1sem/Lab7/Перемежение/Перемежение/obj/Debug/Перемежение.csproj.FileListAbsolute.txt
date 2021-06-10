@@ -1,0 +1,14 @@
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\bin\Debug\Перемежение.exe.config
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\bin\Debug\Перемежение.exe
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\bin\Debug\Перемежение.pdb
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\obj\Debug\Перемежение.csprojAssemblyReference.cache
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\obj\Debug\Перемежение.csproj.CoreCompileInputs.cache
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\obj\Debug\Перемежение.exe
+D:\Документы\BSTU\Защита информации\Лабораторные работы\L7\Перемежение\Перемежение\obj\Debug\Перемежение.pdb
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\bin\Debug\Перемежение.exe.config
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\bin\Debug\Перемежение.exe
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\bin\Debug\Перемежение.pdb
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\obj\Debug\Перемежение.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\obj\Debug\Перемежение.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\obj\Debug\Перемежение.exe
+C:\Users\Asus\Desktop\L7\Перемежение\Перемежение\obj\Debug\Перемежение.pdb

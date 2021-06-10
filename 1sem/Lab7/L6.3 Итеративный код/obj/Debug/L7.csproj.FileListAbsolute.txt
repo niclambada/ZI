@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.exe.config
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.exe
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.pdb
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\obj\Debug\L7.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\obj\Debug\L7.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\obj\Debug\L6.3 Итеративный код.exe
+C:\Users\Asus\Desktop\L7\L6.3 Итеративный код\obj\Debug\L6.3 Итеративный код.pdb
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.exe.config
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.exe
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\bin\Debug\L6.3 Итеративный код.pdb
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\obj\Debug\L7.csprojAssemblyReference.cache
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\obj\Debug\L7.csproj.CoreCompileInputs.cache
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\obj\Debug\L6.3 Итеративный код.exe
+D:\3c1s\Защита инфы и надежность ифн систем\L7\L6.3 Итеративный код\obj\Debug\L6.3 Итеративный код.pdb

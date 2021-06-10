@@ -1,0 +1,34 @@
+D:\3c1s\Защита инфы и надежность ифн систем\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\3c1s\Защита инфы и надежность ифн систем\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\3c1s\Защита инфы и надежность ифн систем\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\3c1s\Защита инфы и надежность ифн систем\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\3c1s\Защита инфы и надежность ифн систем\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\3c1s\Защита инфы и надежность ифн систем\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\3c1s\Защита инфы и надежность ифн систем\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\3c1s\Защита инфы и надежность ифн систем\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\3c1s\Защита инфы и надежность ифн систем\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\3c1s\Защита инфы и надежность ифн систем\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Main\Labs\3\ОБИС\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Main\Labs\3\ОБИС\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Main\Labs\3\ОБИС\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Main\Labs\3\ОБИС\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Main\Labs\3\ОБИС\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Main\Labs\3\ОБИС\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Main\Labs\3\ОБИС\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Main\Labs\3\ОБИС\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Main\Labs\3\ОБИС\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Main\Labs\3\ОБИС\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\Main\Labs\3\ОБИС\Lab2\Lab2\obj\Debug\BKSystem.IO.BitStream.resources
+D:\Main\Labs\3\ОБИС\Lab2\Lab2\obj\Debug\Lab2.Form2.resources
+D:\3c1s\Защита инфы и надежность ифн систем\3\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\3c1s\Защита инфы и надежность ифн систем\3\Lab2\Lab2\obj\Debug\BKSystem.IO.BitStream.resources
+D:\3c1s\Защита инфы и надежность ифн систем\3\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\3c1s\Защита инфы и надежность ифн систем\3\Lab2\Lab2\obj\Debug\Lab2.Form2.resources
+D:\3c1s\Защита инфы и надежность ифн систем\3\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\3c1s\Защита инфы и надежность ифн систем\3\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\3c1s\Защита инфы и надежность ифн систем\3\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\3c1s\Защита инфы и надежность ифн систем\3\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\3c1s\Защита инфы и надежность ифн систем\3\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\3c1s\Защита инфы и надежность ифн систем\3\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\3c1s\Защита инфы и надежность ифн систем\3\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\3c1s\Защита инфы и надежность ифн систем\3\Lab2\Lab2\bin\Debug\Lab2.pdb
