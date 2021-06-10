@@ -1,0 +1,10 @@
+D:\3c2s\ЗИ\Lab3\Lab3\bin\Release\Lab3.exe.config
+D:\3c2s\ЗИ\Lab3\Lab3\bin\Release\Lab3.exe
+D:\3c2s\ЗИ\Lab3\Lab3\bin\Release\Lab3.pdb
+D:\3c2s\ЗИ\Lab3\Lab3\obj\Release\Lab3.csprojAssemblyReference.cache
+D:\3c2s\ЗИ\Lab3\Lab3\obj\Release\Lab3.Form1.resources
+D:\3c2s\ЗИ\Lab3\Lab3\obj\Release\Lab3.Properties.Resources.resources
+D:\3c2s\ЗИ\Lab3\Lab3\obj\Release\Lab3.csproj.GenerateResource.cache
+D:\3c2s\ЗИ\Lab3\Lab3\obj\Release\Lab3.csproj.CoreCompileInputs.cache
+D:\3c2s\ЗИ\Lab3\Lab3\obj\Release\Lab3.exe
+D:\3c2s\ЗИ\Lab3\Lab3\obj\Release\Lab3.pdb
